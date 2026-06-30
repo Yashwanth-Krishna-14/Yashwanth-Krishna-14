@@ -1,7 +1,13 @@
 <h1 align="center">Hi, I'm Yashwanth Krishna 👋</h1>
 <h3 align="center">Final year CSE student building toward AI/MLOps</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanth-krishna-14" alt="yashwanth-krishna-14" /></a> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Building+SAGE%2C+a+multi-agent+BI+system;Learning+orchestration+by+shipping+it;Open+to+AI%2FMLOps+roles" alt="Typing SVG" /> </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-job--hunting-14B8A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-AI%2FMLOps-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/building-in--public-8B5CF6?style=flat-square" />
+</p>
 
 <br>
 
@@ -10,7 +16,9 @@ feel incomplete. Right now that's multi-agent orchestration.
 
 <br>
 
-### Currently building — [SAGE](https://github.com/Yashwanth-Krishna-14/sage)
+<img src="https://img.shields.io/badge/-Currently_building-14B8A6?style=for-the-badge" />
+
+### [SAGE](https://github.com/Yashwanth-Krishna-14/sage)
 
 Data analysts lose most of their time to cleaning and feature engineering 
 before they ever get to insight. SAGE is my attempt at automating that 
@@ -24,18 +32,32 @@ It's early. The state contracts and DB models are done; the agents
 themselves are next. I'm building it in public specifically to get the 
 orchestration logic right, not to ship something polished fast.
 
-`FastAPI` `LangGraph` `PostgreSQL` `Celery` `React`
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
 
 <br>
 
-### Shipped — [Chat-T](https://github.com/Yashwanth-Krishna-14/chat-t)
+<img src="https://img.shields.io/badge/-Shipped-3B82F6?style=for-the-badge" />
+
+### [Chat-T](https://github.com/Yashwanth-Krishna-14/chat-t)
 
 An ephemeral messaging app in the spirit of Snapchat — text and image 
 messages over real-time WebSockets, auto-purged from the database after 
 4 days via MongoDB TTL indexes rather than a manual cleanup job. Built 
 on the MERN stack with Socket.IO handling bidirectional communication.
 
-`MongoDB` `Express` `React` `Node.js` `Socket.IO`
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
+</p>
 
 <br>
 
@@ -49,8 +71,8 @@ on the MERN stack with Socket.IO handling bidirectional communication.
 
 <h3 align="left">Connect</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yashwanth-krishna-rj-9b90772b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/yashwanth__14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yashwanth-krishna-rj-9b90772b0" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/yashwanth__14" target="blank"><img src="https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 <br>
@@ -69,4 +91,3 @@ on the MERN stack with Socket.IO handling bidirectional communication.
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanth-krishna-14&" alt="yashwanth-krishna-14" /></p>
